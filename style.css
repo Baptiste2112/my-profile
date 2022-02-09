@@ -1,0 +1,139 @@
+@import url("componements/button.css")
+
+
+.message{
+	color: white;
+	font-family: "Courier New";
+}
+body{
+	background: rgb(195, 195, 195 );
+}
+
+.fa-basketball-ball{
+	color: orange;
+	font-size: 15px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.fa-futbol{
+    color: black;
+    font-size: 15px;
+}
+.fa-car-crash{
+    color:Yellow;
+    font-size: 15px;
+}
+
+.fa-film{
+	color:red ;
+	font-size: 15px;
+}
+
+.fas fa-at{
+	color: white;
+	font-size: 20px;
+}
+
+.fas fa-unlock-alt{
+	color: white;
+	font-size: 20px;
+}
+
+img{
+	border-radius: 15%;
+    box-shadow: 10px 10px 10px black;
+}
+h1{
+	text-align: center;
+	font-family: spaceman ;
+}
+
+p{
+	color: white;
+}
+
+ul{color: white;}
+
+ol{color: white;}
+
+.fa-linkedin{
+	color:black;
+	font-size: 20px;
+
+}
+.hah {
+	text-align: left;
+	font-family:IBM Plex Sans Thai Looped;
+}
+
+img.image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.border_div {
+	border: 4px solid darkgrey;
+}
+
+.border_in{
+	border: 4px solid darkgrey;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.separateur {
+	border-left: 4px solid  darkgrey;
+	height:  250px;
+}
+
+.accroche{
+	font-family:IBM Plex Sans Thai Looped;
+	text-align: center;
+}
+
+.linkedin_btn{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.button {
+	font-family:IBM Plex Sans Thai Looped;
+	background-color:grey;
+    border: none;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    box-shadow: 10px 10px 10px black	
+}
+
+.button a {
+	color:  white;
+	font-size: 15px;
+}
+
+.contact {
+	font-family:IBM Plex Sans Thai Looped;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.image_avatar{
+  width: 40px;
+  border-radius: 5%;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  border: white 3px solid;
+}
+
+.well_reunited
+@media (min-width :850 px)
